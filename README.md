@@ -4,7 +4,7 @@ This tutorial teaches the basics of building a controller-based web API that use
 Another approach to creating APIs in ASP.NET Core is to create minimal APIs.
 
 
-### Overview
+## Overview
 This tutorial creates the following API:
 <table align="center">
 <tr>
@@ -39,5 +39,5 @@ This tutorial creates the following API:
 </tr>
 </table>
 
-### Link for this tutorial
+## Link for this tutorial
 https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-8.0&WT.mc_id=dotnet-35129-website&tabs=visual-studio
