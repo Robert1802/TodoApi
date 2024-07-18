@@ -4,6 +4,8 @@ This tutorial teaches the basics of building a controller-based web API that use
 Another approach to creating APIs in ASP.NET Core is to create minimal APIs.
 
 
+### Overview
+This tutorial creates the following API:
 <table align="center">
 <tr>
 	<td><code>GET /api/todoitems</code></td>
